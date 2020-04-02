@@ -1,2 +1,5 @@
-# hello-world
-学习知识
+import turtle
+t = turtle.Pen()
+for x in range(4):
+    t.circle(100)
+    t.left(90)
